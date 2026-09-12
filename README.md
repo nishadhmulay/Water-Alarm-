@@ -10,7 +10,6 @@
   <a href="#background">Background</a> •
   <a href="#components">Components</a> •
   <a href="#setup">Setup</a> •
-  <a href="#cad-file">CAD File</a> •
   <a href="#usage">Usage</a> •
   <a href="#future-improvements">Future Improvements</a> •
   <a href="#license">License</a>
