@@ -7,7 +7,6 @@
 <p align="center">
   <a href="#what-is-this">What is this?</a> •
   <a href="#features">Features</a> •
-  <a href="#prototype">Prototype</a> •
   <a href="#background">Background</a> •
   <a href="#components">Components</a> •
   <a href="#setup">Setup</a> •
@@ -15,13 +14,6 @@
   <a href="#future-improvements">Future Improvements</a> •
   <a href="#license">License</a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/project-electronics-blue" alt="Project Type" />
-  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License" />
-</p>
-
 ---
 
 ## What is this?
@@ -46,6 +38,8 @@ Water Alarm is a project designed to detect the presence of water and trigger an
   <img src="https://github.com/user-attachments/assets/85b4b99f-063e-4a32-88e1-14534918d0e5" alt="Water Alarm Prototype 2" />
   <img src="https://github.com/user-attachments/assets/7d23e924-d90f-45f1-a4f8-a6a1a8a4a496" alt="Water Alarm Prototype 3" />
   <img width="989" height="613" alt="image" src="https://github.com/user-attachments/assets/351a7c60-670a-4d45-9d26-3940ad1df14b" />
+
+*Pls look at the files for the engineering drawings, BOM, schematics, etc. for more
 
 </p>
 
@@ -76,11 +70,11 @@ The project helped develop skills in schematic design, PCB design, soldering, an
 
 ## Setup
 
-Components will need to be soldered onto the PCB board carefully, especially the MOSFET (Q1). A wire should be connected to the Terminal Block (J2) with both ends of the wire stripped off to reveal two copper-filled wires inside the main wire. The insulation of those two wires inside the main wire is also stripped off to reveal the copper. This is done on both ends, so copper can connect to the terminal block and be tightly screwed on with the screws on the Terminal Block (J2), and water can be detected from the other side of the wire via the stripped copper wire. A 9-volt battery should be securely attached to the barrel plug. The water alarm can be drilled onto a surface or secured using zip ties into the 2 holes. 
+Components will need to be soldered onto the PCB board carefully, especially the MOSFET (Q1). A wire should be connected to the Terminal Block (J2) with both ends of the wire stripped off to reveal two copper-filled wires inside the main wire. The insulation of those two wires inside the main wire is also stripped off to reveal the copper. This is done on both ends, so copper can connect to the terminal block and be tightly screwed on with the screws on the Terminal Block (J2), and water can be detected from the other side of the wire via the stripped copper wire. A 9-volt battery should be securely attached to the barrel plug. The water alarm can be drilled into a surface or secured with zip ties in the 2 holes. 
 
 ## Usage
 
-Any 9-volt battery connected to a barrel plug will be perfect. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
+Any 9-volt battery with a barrel plug will work perfectly. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
 
 ## Future Improvements
 
@@ -88,6 +82,17 @@ Any 9-volt battery connected to a barrel plug will be perfect. The water alarm w
 - Adjustable sensitivity
 - More wire sensors
 - Separated pads for easier soldering
+
+## Tips
+
+- Make sure that the solder DOES NOT flow through and connect the pins or pads for the MOSFET (Q1). The solder should cover each independent pad and pin only
+- If the buzzer sounds each time the battery is plugged in, check the solder on the back and make sure it's not touching multiple pads/pins. Make sure the wires aren't touching each other
+- Don't accidentally place a component the wrong way; always make sure that they follow the outline on the PCB 
+- Make sure the sensor area stays clean and dry when not in use.
+- Test the alarm once in a while to confirm it still works.
+- Place the sensor in an area where water would collect first.
+- Check all wiring and connections if the alarm is not triggering.
+- Replace the battery or power source if the alarm becomes weak.
 
 ## License
 
