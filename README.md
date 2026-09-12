@@ -86,7 +86,7 @@ https://github.com/nishadhmulay/Water-Alarm-/blob/main/Wiring%20Schematics.pdf
 
 ## PCB Editor (KiCad)
 
-https://github.com/nishadhmulay/Water-Alarm-/releases/download/V2/water.alarm.pdf 
+https://github.com/nishadhmulay/Water-Alarm-/blob/main/PCB%20Editor.pdf
 
 ## Usage
 
