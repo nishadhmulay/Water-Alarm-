@@ -39,12 +39,14 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 - Drill mounts
 - LED light trigger
 
-## Prototype
+## Renders
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c38162c2-091c-41da-b59c-7ebeb59c5152" alt="Water Alarm Prototype 1" />
   <img src="https://github.com/user-attachments/assets/85b4b99f-063e-4a32-88e1-14534918d0e5" alt="Water Alarm Prototype 2" />
   <img src="https://github.com/user-attachments/assets/7d23e924-d90f-45f1-a4f8-a6a1a8a4a496" alt="Water Alarm Prototype 3" />
+  <img width="989" height="613" alt="image" src="https://github.com/user-attachments/assets/351a7c60-670a-4d45-9d26-3940ad1df14b" />
+
 </p>
 
 ## Background
@@ -78,7 +80,7 @@ Components will need to be soldered onto the PCB board carefully, especially the
 
 ## Usage
 
-Any 9-volt battery connected to a barrel plug will be perfect.
+Any 9-volt battery connected to a barrel plug will be perfect. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
 
 ## Future Improvements
 
