@@ -18,7 +18,7 @@
 
 ## About
 
-Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen. This project was part of the Stardance Hackathon, sponsored by NASA, GitHub, and AMD. This project took approximately 25 hours to fully complete and was built throughout the Stardance hackathon time frame (June to September 2026). It was created using DigiKey's Water Alarm tutorial. 
+Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen. This project was part of the Stardance Hackathon, sponsored by NASA, GitHub, and AMD. This project took approximately 30 hours to fully complete and was built throughout the Stardance hackathon time frame (June to September 2026). It was created using DigiKey's Water Alarm tutorial. 
 
 ## Features
 
@@ -118,7 +118,7 @@ The author is not responsible for any damage, injury, or loss resulting from the
 
 Always use caution when working with electricity, water, and electronic components. 
 
-Good luck!
+Good luck!!
 
 <img width="504" height="514" alt="image" src="https://github.com/user-attachments/assets/ad0cb48f-f1ab-4840-b609-02a33af6728a" />
 
