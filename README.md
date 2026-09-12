@@ -73,10 +73,6 @@ The project helped develop skills in schematic design, PCB design, soldering, an
 
 Components will need to be soldered onto the PCB board carefully, especially the MOSFET (Q1). A wire should be connected to the Terminal Block (J2) with both ends of the wire stripped off to reveal two copper-filled wires inside the main wire. The insulation of those two wires inside the main wire is also stripped off to reveal the copper. This is done on both ends, so copper can connect to the terminal block and be tightly screwed on with the screws on the Terminal Block (J2), and water can be detected from the other side of the wire via the stripped copper wire. A 9-volt battery should be securely attached to the barrel plug. The water alarm can be drilled into a surface or secured with zip ties in the 2 holes. 
 
-## CAD File
-
-- [Water Alarm CAD Drawings](./water%20alarm%20Drawings.pdf)
-
 ## Usage
 
 Any 9-volt battery with a barrel plug will work perfectly. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
