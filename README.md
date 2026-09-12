@@ -1,12 +1,90 @@
-# Water-Alarm-
-#Visuals
+<h1 align="center">Water Alarm</h1>
 
-<img width="1637" height="797" alt="image" src="https://github.com/user-attachments/assets/c38162c2-091c-41da-b59c-7ebeb59c5152" />
-<img width="895" height="506" alt="image" src="https://github.com/user-attachments/assets/85b4b99f-063e-4a32-88e1-14534918d0e5" />
-<img width="946" height="488" alt="image" src="https://github.com/user-attachments/assets/7d23e924-d90f-45f1-a4f8-a6a1a8a4a496" />
+<p align="center">
+  A simple water detection alarm that warns you early when moisture or leaks are detected.
+</p>
 
-#Background
+<p align="center">
+  <a href="#what-is-this">What is this?</a> •
+  <a href="#features">Features</a> •
+  <a href="#prototype">Prototype</a> •
+  <a href="#background">Background</a> •
+  <a href="#components">Components</a> •
+  <a href="#setup">Setup</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#future-improvements">Future Improvements</a> •
+  <a href="#license">License</a>
+</p>
 
-A water alarm that can be used anywhere. Near a sewer, toilet, sink, or any place where water could potentially flood. It will deliver power to a very loud buzzer, notifying people of a leak. It features parts from DigiKey and was done through DigiKey's water alarm tutorial. Schematics, PCB layout, Gerber files, and testing were done in KiCAD, and engineering drawings (2D CAD) were done in Autodesk Fusion. The goal of this project was to learn more about schematics and PCB design as well as gain experience with electrical components and soldering. 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/project-electronics-blue" alt="Project Type" />
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License" />
+</p>
 
-It can even detect a single drop of water through a wire with both ends stripped off to reveal two copper-filled wires inside of the main wire. The insulation of the two wires inside the main wire is also stripped off to reveal the copper. This is done on both ends so copper can go into the terminal block and water can be detected from the other side. 
+---
+
+## What is this?
+
+Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen.
+
+## Features
+
+- Water detection sensing
+- Instant alarm response
+- Simple and practical design
+- Useful for home safety and monitoring
+- Loud buzzer alert
+- Compact and easy to install
+
+## Prototype
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c38162c2-091c-41da-b59c-7ebeb59c5152" alt="Water Alarm Prototype 1" />
+  <img src="https://github.com/user-attachments/assets/85b4b99f-063e-4a32-88e1-14534918d0e5" alt="Water Alarm Prototype 2" />
+  <img src="https://github.com/user-attachments/assets/7d23e924-d90f-45f1-a4f8-a6a1a8a4a496" alt="Water Alarm Prototype 3" />
+</p>
+
+## Background
+
+This water alarm can be used anywhere. Near a sewer, toilet, sink, or any place where water could potentially flood. It powers a loud buzzer to notify people of a leak.
+
+It was built using components from DigiKey and inspired by DigiKey's water alarm tutorial. Schematics, PCB layout, Gerber files, and testing were completed in KiCad, and the engineering drawings were made in Autodesk Fusion.
+
+The project also helped develop skills in schematic design, PCB design, soldering, and working with electrical components.
+
+## Components
+
+- Water sensor wire
+- Microcontroller or control circuit
+- Buzzer
+- PCB
+- Terminal block
+- Power source
+- Jumper wires
+- Breadboard or enclosure
+
+## Setup
+
+1. Assemble the circuit or PCB.
+2. Connect the water sensor wire to the input terminals.
+3. Connect the buzzer to the output side of the circuit.
+4. Power the device.
+5. Place the sensor in an area where water leaks may occur.
+
+## Usage
+
+Once powered on, the Water Alarm runs automatically. If water touches the sensor wire, the buzzer sounds and alerts the user.
+
+## Future Improvements
+
+- LED indicator
+- Adjustable sensitivity
+- Battery backup
+- Wireless alerts
+- Mobile notifications
+- Enclosure for cleaner installation
+
+## License
+
+This project is open source and available under the MIT License.
