@@ -94,6 +94,18 @@ Any 9-volt battery with a barrel plug will work perfectly. The water alarm will 
 - Check all wiring and connections if the alarm is not triggering.
 - Replace the battery or power source if the alarm becomes weak.
 
+## Disclaimer
+
+This project is provided for educational and informational purposes only. Use it at your own risk.
+
+The author is not responsible for any damage, injury, or loss resulting from the use or misuse of this project. This project is not certified for commercial, industrial, or life-safety use.
+
+Always use caution when working with electricity, water, and electronic components. 
+
+Good luck!
+
+<img width="504" height="514" alt="image" src="https://github.com/user-attachments/assets/ad0cb48f-f1ab-4840-b609-02a33af6728a" />
+
 ## License
 
 This project is open source and available under the MIT License.
