@@ -84,6 +84,10 @@ https://github.com/nishadhmulay/Water-Alarm-/blob/main/water%20alarm%20Drawings.
 
 https://github.com/nishadhmulay/Water-Alarm-/blob/main/Wiring%20Schematics.pdf 
 
+## PCB Editor (KiCad)
+
+https://github.com/nishadhmulay/Water-Alarm-/releases/download/V2/water.alarm.pdf 
+
 ## Usage
 
 Any 9-volt battery with a barrel plug will work perfectly. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
