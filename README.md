@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#what-is-this">What is this?</a> •
+  <a href="#About">About?</a> •
   <a href="#features">Features</a> •
   <a href="#background">Background</a> •
   <a href="#components">Components</a> •
@@ -16,9 +16,9 @@
 </p>
 ---
 
-## What is this?
+## About
 
-Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen.
+Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen. This project was part of the Stardance Hackathon, sponsored by NASA, GitHub, and AMD. This project took approximately 25 hours to fully complete and was built throughout the Stardance hackathon time frame (June to September 2026). It was created using DigiKey's Water Alarm tutorial. 
 
 ## Features
 
