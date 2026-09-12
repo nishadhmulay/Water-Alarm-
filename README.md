@@ -30,12 +30,14 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 
 ## Features
 
-- Water detection sensing
+- Water detection 
 - Instant alarm response
 - Simple and practical design
 - Useful for home safety and monitoring
 - Loud buzzer alert
 - Compact and easy to install
+- Drill mounts
+- LED light trigger
 
 ## Prototype
 
@@ -51,39 +53,39 @@ This water alarm can be used anywhere. Near a sewer, toilet, sink, or any place 
 
 It was built using components from DigiKey and inspired by DigiKey's water alarm tutorial. Schematics, PCB layout, Gerber files, and testing were completed in KiCad, and the engineering drawings were made in Autodesk Fusion.
 
-The project also helped develop skills in schematic design, PCB design, soldering, and working with electrical components.
+The project helped develop skills in schematic design, PCB design, soldering, and working with electrical components. I truly encourage anyone to try this out, especially if you are new to PCBs and electrical components in general. 
 
 ## Components
 
-- Water sensor wire
-- Microcontroller or control circuit
-- Buzzer
-- PCB
-- Terminal block
-- Power source
-- Jumper wires
-- Breadboard or enclosure
+## Bill of Materials
+
+| Reference | DKPN | Value | Footprint | Description | Qty |
+|---|---|---|---|---|---|
+| BZ1 | 668-1652-ND | Buzzer | `1_buzzers:Buzzer_D30mm_H20mm_P15mm_668-1652-ND_AI-3035-TT-12V-ND` |  | 1 |
+| C1 | 56-K102K10X7RH5UL2CT-ND | 1nF | `Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm` | Unpolarized capacitor, small symbol | 1 |
+| D2 | 1830-1004-ND | LED_Small_Filled | `LED_THT:LED_D3.0mm` | Light emitting diode, small symbol, filled shape | 1 |
+| J1 | CP-037A-ND | Jack-DC | `Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal` | DC Barrel Jack | 1 |
+| J2 | 2057-EBAA-02-C-ND | Screw_Terminal_01x02 | `TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal` | Generic screw terminal, single row, 01x02 | 1 |
+| Q1 | 4878-2N7000CT-ND | 2N7000 | `Package_TO_SOT_THT:TO-92_Inline` | 0.2A Id, 200V Vds, N-Channel MOSFET | 1 |
+| R1 | CF18JT10M0CT-ND | 10M | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 |
+| R2 | CF14JT330RTR-ND | 330 Ohms | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` | Resistor, small US symbol | 1 |
+| Z1 | 364-1254-ND | 12v Supply |  | Housing | 1 |
+| Z2 | 1927-1053-ND | 9v Batt Assy |  | Multiple-cell battery | 1 |
 
 ## Setup
 
-1. Assemble the circuit or PCB.
-2. Connect the water sensor wire to the input terminals.
-3. Connect the buzzer to the output side of the circuit.
-4. Power the device.
-5. Place the sensor in an area where water leaks may occur.
+Components will need to be soldered onto the PCB board carefully, especially the MOSFET (Q1). A wire should be connected to the Terminal Block (J2) with both ends of the wire stripped off to reveal two copper-filled wires inside the main wire. The insulation of those two wires inside the main wire is also stripped off to reveal the copper. This is done on both ends, so copper can connect to the terminal block and be tightly screwed on with the screws on the Terminal Block (J2), and water can be detected from the other side of the wire via the stripped copper wire. A 9-volt battery should be securely attached to the barrel plug. The water alarm can be drilled onto a surface or secured using zip ties into the 2 holes. 
 
 ## Usage
 
-Once powered on, the Water Alarm runs automatically. If water touches the sensor wire, the buzzer sounds and alerts the user.
+Any 9-volt battery connected to a barrel plug will be perfect.
 
 ## Future Improvements
 
-- LED indicator
+- 3D printed enclosure
 - Adjustable sensitivity
-- Battery backup
-- Wireless alerts
-- Mobile notifications
-- Enclosure for cleaner installation
+- More wire sensors
+- Separated pads for easier soldering
 
 ## License
 
