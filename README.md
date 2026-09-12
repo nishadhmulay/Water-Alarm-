@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#About">About?</a> •
+  <a href="#About">About</a> •
   <a href="#features">Features</a> •
   <a href="#background">Background</a> •
   <a href="#components">Components</a> •
