@@ -4,21 +4,13 @@
   A simple water detection alarm that warns you early when moisture or leaks are detected.
 </p>
 
-<p align="center">
-  <a href="#About">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#background">Background</a> •
-  <a href="#components">Components</a> •
-  <a href="#setup">Setup</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#future-improvements">Future Improvements</a> •
-  <a href="#license">License</a>
-</p>
 ---
 
 ## About
 
 Water Alarm is a project designed to detect the presence of water and trigger an alert as soon as moisture is found. It can be used in places like bathrooms, basements, kitchens, near sinks, or around appliances where leaks may happen. This project was part of the Stardance Hackathon, sponsored by NASA, GitHub, and AMD. This project took approximately 30 hours to fully complete and was built throughout the Stardance hackathon time frame (June to September 2026). It was created using DigiKey's Water Alarm tutorial. 
+
+---
 
 ## Features
 
@@ -30,6 +22,8 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 - Compact and easy to install
 - Drill mounts
 - LED light trigger
+
+---
 
 ## Renders
 
@@ -43,6 +37,8 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 
 </p>
 
+---
+
 ## Background
 
 This water alarm can be used anywhere. Near a sewer, toilet, sink, or any place where water could potentially flood. It powers a loud buzzer to notify people of a leak.
@@ -50,6 +46,8 @@ This water alarm can be used anywhere. Near a sewer, toilet, sink, or any place 
 It was built using components from DigiKey and inspired by DigiKey's water alarm tutorial. Schematics, PCB layout, Gerber files, and testing were completed in KiCad, and the engineering drawings were made in Autodesk Fusion.
 
 The project helped develop skills in schematic design, PCB design, soldering, and working with electrical components. I truly encourage anyone to try this out, especially if you are new to PCBs and electrical components in general. 
+
+---
 
 ## Components
 
@@ -67,6 +65,8 @@ The project helped develop skills in schematic design, PCB design, soldering, an
 | R2 | CF14JT330RTR-ND | 330 Ohms | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` | Resistor, small US symbol | 1 |
 | Z1 | 364-1254-ND | 12v Supply |  | Housing | 1 |
 | Z2 | 1927-1053-ND | 9v Batt Assy |  | Multiple-cell battery | 1 |
+
+---
 
 ## Setup
 
@@ -88,9 +88,13 @@ https://github.com/nishadhmulay/Water-Alarm-/blob/main/Wiring%20Schematics.pdf
 
 https://github.com/nishadhmulay/Water-Alarm-/blob/main/PCB%20Editor.pdf
 
+---
+
 ## Usage
 
 Any 9-volt battery with a barrel plug will work perfectly. The water alarm will continue detecting moisture until the battery lasts (Approx. 1-3 years). 
+
+---
 
 ## Future Improvements
 
@@ -98,6 +102,8 @@ Any 9-volt battery with a barrel plug will work perfectly. The water alarm will 
 - Adjustable sensitivity
 - More wire sensors
 - Separated pads for easier soldering
+
+---
 
 ## Tips
 
@@ -110,6 +116,28 @@ Any 9-volt battery with a barrel plug will work perfectly. The water alarm will 
 - Check all wiring and connections if the alarm is not triggering.
 - Replace the battery or power source if the alarm becomes weak.
 
+---
+
+## AI Usage 
+
+- Used to figure out how to set the copper area on the PCB
+
+- General definitions and functions of parts, mechanisms, etc.  
+
+- confirming that parts and the entire circuit can work
+  
+- assigning footprints to the LED
+
+- Using and learning GitHub
+
+- Clarifying rules and resources
+
+- Checking for any mistakes in wiring schematics in KiCad
+
+- Learning and tips for soldering
+
+---
+
 ## Disclaimer
 
 This project is provided for educational and informational purposes only. Use it at your own risk.
@@ -121,6 +149,8 @@ Always use caution when working with electricity, water, and electronic componen
 Good luck!!
 
 <img width="504" height="514" alt="image" src="https://github.com/user-attachments/assets/ad0cb48f-f1ab-4840-b609-02a33af6728a" />
+
+---
 
 ## License
 
