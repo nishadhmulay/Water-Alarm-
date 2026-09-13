@@ -21,7 +21,7 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 - Loud buzzer alert
 - Compact and easy to install
 - Drill mounts
-- LED light trigger
+- LED light (Optional)
 
 ---
 
