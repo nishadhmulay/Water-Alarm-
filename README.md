@@ -68,7 +68,7 @@ The costs below are unit prices in USD.
 | Z1 | [364-1254-ND](https://www.digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?s=N4IgTCBcDaIMwDYAsBaAjGArKgcgERAF0BfIA) | 12v Supply | — | Housing | 1 | $6.83 |
 | Z2 | [1927-1053-ND](https://www.digikey.com/en/products/detail/kitronik-ltd/4132/8635470?s=N4IgTCBcDaIIwE4wHYC0cAMBWAzKgcgCIgC6AvkA) | 9v Batt Assy | — | Multiple-cell battery | 1 | $1.28 |
 
-Standalone BOM files: [BOM.md](BOM.md) and [BOM.csv](BOM.csv).
+<small>Refer to [BOM.md](BOM.md) or [BOM.csv](BOM.csv).</small>
 ---
 
 ## Setup
