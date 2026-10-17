@@ -41,9 +41,9 @@ Water Alarm is a project designed to detect the presence of water and trigger an
 
 ## Background
 
-This water alarm can be used anywhere. Near a sewer, toilet, sink, or any place where water could potentially flood. It powers a loud buzzer to notify people of a leak.
+This water alarm can be used anywhere, such as near a toilet, sink, or any place where water could potentially flood. It powers a loud buzzer to notify people of a leak and
 
-It was built using components from DigiKey and inspired by DigiKey's water alarm tutorial. Schematics, PCB layout, Gerber files, and testing were completed in KiCad, and the engineering drawings were created for the project.
+It was built using components from DigiKey. Schematics, PCB layout, Gerber files, and testing were completed in KiCad, and the engineering drawings were created for the project.
 
 The project helped develop skills in schematic design, PCB design, soldering, and working with electrical components. I truly encourage anyone to try this out, especially if you are new to PCBs and electronics.
 
