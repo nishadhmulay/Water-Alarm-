@@ -1,3 +1,5 @@
+## Components
+
 # Bill of Materials
 
 | Reference | Part Number/Links | Value | Footprint | Description | Qty | Cost (USD) |
@@ -9,7 +11,7 @@
 | J2 | [2057-EBAA-02-C-ND](https://www.digikey.com/en/products/detail/adam-tech/EBAA-02-C/13586872?s=N4IgTCBcDa4AwFYDsBaAogIQIJZXMKAwigHIAiIAugL5A) | Screw Terminal | `TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal` | Generic screw terminal, single row, 01x02 | 1 | $0.39 |
 | Q1 | [4878-2N7000CT-ND](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N7000/13164314?s=N4IgTCBcDaICwA4DsCC0YBySAMuDCAKqhgCIgC6AvkA) | MOSFET | `Package_TO_SOT_THT:TO-92_Inline` | 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92 | 1 | $0.29 |
 | R1 | [CF18JT10M0CT-ND](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT10M0/1741568?s=N4IgTCBcDaIMIDECMAOAUgFSQBgLLbgwFoA5AERAF0BfIA) | Resistor (10M) | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
-| R2 (V2) | [CF18JT330RCT]([https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT330R/1741683]) | Resistor (330 Ohms) | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
+| R2 (V2) | [CF18JT330RCT](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT330R/1741683) | Resistor (330 Ohms) | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
 | Z1 | [364-1254-ND](https://www.digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?s=N4IgTCBcDaIMwDYAsBaAjGArKgcgERAF0BfIA) | 12v Supply | — | Housing | 1 | $6.83 |
 | Z2 | [1927-1053-ND](https://www.digikey.com/en/products/detail/kitronik-ltd/4132/8635470?s=N4IgTCBcDaIIwE4wHYC0cAMBWAzKgcgCIgC6AvkA) | Batt Assy | — | Battery Assembly (9v) | 1 | $1.28 |
 | - | [Link](https://www.walmart.com/ip/Great-Value-9V-Batteries-2-Pack-Alkaline-9-Volt-Batteries/14359618034?wmlspartner=wlpa&selectedSellerId=0&wl13=688&adid=2222222229714359618034_0000000000_23892606167&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=1025928&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=14359618034&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892627254&gbraid=0AAAAADmfBIqZ_S92IicWaFBY-xeNQlMp3&gclid=CjwKCAjwuczWBhA9EiwAYGgEoY_gCjOxlDjI-KOK_n_ZA0OE6PPSylDuCl5Voqk5ou24i88cNrY56BoCmJwQAvkA) | 9v Battery | — | Walmart 9v battery | 1 | $4.97 |
