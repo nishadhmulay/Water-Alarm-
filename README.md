@@ -57,12 +57,12 @@ The project helped develop skills in schematic design, PCB design, soldering, an
 |---|---|---|---|---|---:|---:|
 | BZ1 | [668-1652-ND](https://www.digikey.com/en/products/detail/pui-audio-inc/AI-3035-TT-12V-R/9083403?s=N4IgTCBcDaIGxwBwFoCMcCsZkDkAiIAugL5A) | Buzzer | `1_buzzers:Buzzer_D30mm_H20mm_P15mm_668-1652-ND_AI-3035-TT-12V-R` | — | 1 | $3.42 |
 | C1 | [56-K102K10X7RH5UL2CT-ND](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K102K10X7RH5UL2/2820341?s=N4IgTCBcDaIKwDYC0BpAjABjOjANA7AEoAScAqgDJgDCAKkgHIAiIAugL5A) | Capacitor | `Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm` | Unpolarized capacitor, small symbol | 1 | $0.24 |
-| D2 | [1830-1004-ND](https://www.digikey.com/en/products/detail/inolux/INL-3AG30/7604619?s=N4IgTCBcDaIIwA4DMAGAtHFKAsaByAIiALoC%2BQA) | LED | `LED_THT:LED_D3.0mm` | Light emitting diode, small symbol, filled shape | 1 | $0.26 |
+| D2 (V2) | [1830-1004-ND](https://www.digikey.com/en/products/detail/inolux/INL-3AG30/7604619?s=N4IgTCBcDaIIwA4DMAGAtHFKAsaByAIiALoC%2BQA) | LED | `LED_THT:LED_D3.0mm` | Light emitting diode, small symbol, filled shape | 1 | $0.26 |
 | J1 | [CP-037A-ND](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-037A/1644545?s=N4IgTCBcDaIMIAUC0AGAzAdgIJIHIBEQBdAXyA) | Barrel Jack | `Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal` | DC Barrel Jack | 1 | $0.71 |
 | J2 | [2057-EBAA-02-C-ND](https://www.digikey.com/en/products/detail/adam-tech/EBAA-02-C/13586872?s=N4IgTCBcDa4AwFYDsBaAogIQIJZXMKAwigHIAiIAugL5A) | Screw Terminal | `TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal` | Generic screw terminal, single row, 01x02 | 1 | $0.39 |
 | Q1 | [4878-2N7000CT-ND](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N7000/13164314?s=N4IgTCBcDaICwA4DsCC0YBySAMuDCAKqhgCIgC6AvkA) | MOSFET | `Package_TO_SOT_THT:TO-92_Inline` | 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92 | 1 | $0.29 |
 | R1 | [CF18JT10M0CT-ND](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT10M0/1741568?s=N4IgTCBcDaIMIDECMAOAUgFSQBgLLbgwFoA5AERAF0BfIA) | Resistor (10M) | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
-| R2 | [CF14JT330RTR-ND](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT330R/1741399?s=N4IgTCBcDaIMIDECMAWAUgFQMxYAwCUN8BaAOQBEQBdAXyA) | Resistor (330 Ohms) | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
+| R2 (V2) | [CF18JT330RCT]([https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT330R/1741683]) | Resistor (330 Ohms) | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal` | Resistor, small US symbol | 1 | $0.10 |
 | Z1 | [364-1254-ND](https://www.digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?s=N4IgTCBcDaIMwDYAsBaAjGArKgcgERAF0BfIA) | 12v Supply | — | Housing | 1 | $6.83 |
 | Z2 | [1927-1053-ND](https://www.digikey.com/en/products/detail/kitronik-ltd/4132/8635470?s=N4IgTCBcDaIIwE4wHYC0cAMBWAzKgcgCIgC6AvkA) | Batt Assy | — | Battery Assembly (9v) | 1 | $1.28 |
 | - | [Link](https://www.walmart.com/ip/Great-Value-9V-Batteries-2-Pack-Alkaline-9-Volt-Batteries/14359618034?wmlspartner=wlpa&selectedSellerId=0&wl13=688&adid=2222222229714359618034_0000000000_23892606167&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=1025928&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=14359618034&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892627254&gbraid=0AAAAADmfBIqZ_S92IicWaFBY-xeNQlMp3&gclid=CjwKCAjwuczWBhA9EiwAYGgEoY_gCjOxlDjI-KOK_n_ZA0OE6PPSylDuCl5Voqk5ou24i88cNrY56BoCmJwQAvkA) | 9v Battery | — | Walmart 9v battery | 1 | $4.97 |
@@ -78,6 +78,14 @@ Refer to BOM.csv as needed
 ## Setup
 
 Components will need to be soldered onto the PCB board carefully, especially the MOSFET (Q1). A wire should be connected to the Terminal Block (J2) with both ends of the wire stripped off to reveal the conductive wire.
+
+## Revisions & Changes
+
+-V1 was the board that was physically built, soldered, and tested. V1 did NOT have a functioning LED light, and only had the buzzer
+-V1 Issues: D2 anode had no trace to VCC, and R2's pad went to GND, so LED wouldn't have been activated when the alarm was activated
+-V2 Changes: D2 anode to VCC, R2 to the Q1 drain, and R2 changed to CF18JT330R
+
+Note: The LED and R2 are completely optional and haven't been tested. The buzzer works without it. I have included both V1 and V2 schematics and PCB screenshots. 
 
 ## CAD File  
 
