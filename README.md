@@ -103,10 +103,6 @@ https://github.com/nishadhmulay/Water-Alarm-/releases/download/V1/Water.Alarm.CA
 
 - [KiCad wiring schematic](https://github.com/nishadhmulay/Water-Alarm-/blob/main/water%20alarm.kicad_sch)
 
-## PCB Editor (KiCad)
-
-- [KiCad PCB layout](https://github.com/nishadhmulay/Water-Alarm-/blob/main/water%20alarm.kicad_pcb)
-
 ## Schematic Editor 
 
 - [Schematic Editor](https://github.com/nishadhmulay/Water-Alarm-/blob/main/Schematic%20Editor.png)
