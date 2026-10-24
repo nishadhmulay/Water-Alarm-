@@ -97,6 +97,7 @@ https://github.com/nishadhmulay/Water-Alarm-/releases/download/V1/Water.Alarm.CA
 
 - [Water Alarm Engineered Drawings (Exploded)](https://github.com/nishadhmulay/Water-Alarm-/blob/main/Water%20Alarm%20Engineered%20Drawings%20%28Exploded%29%20WA1.0.pdf)
 - [Water Alarm Engineered Drawings 2](https://github.com/nishadhmulay/Water-Alarm-/blob/main/Water%20Alarm%20Engineered%20Drawings%202.pdf)
+- [Water Alarm Dimensions](https://github.com/nishadhmulay/Water-Alarm-/blob/main/Water%20Alarm%20Dimensions.pdf) 
 
 ## Wiring Schematics
 
@@ -105,6 +106,10 @@ https://github.com/nishadhmulay/Water-Alarm-/releases/download/V1/Water.Alarm.CA
 ## PCB Editor (KiCad)
 
 - [KiCad PCB layout](https://github.com/nishadhmulay/Water-Alarm-/blob/main/water%20alarm.kicad_pcb)
+
+## Schematic Editor 
+
+- [Schematic Editor](https://github.com/nishadhmulay/Water-Alarm-/blob/main/Schematic%20Editor.png)
 
 ---
 
